@@ -1,3 +1,3 @@
-# LCA-python
+# Lowest Common Ancestor - Python
 
-Assignment 1 for: CSU33012
+Assignment 1 for module: CSU33012
